@@ -1,4 +1,4 @@
-// create a web server and listen to incoming request
+// create web server and listen to incoming request
 
 // 1. require http module
 
