@@ -60,7 +60,7 @@ jobs:
         uses: skills/action-check-file@v1
         with:
           file: "comments.js"
-          search: "Create web server"
+          search: "(?i)\bcreate web server\b "
 
       # In README.md, switch step 3 for step X.
       - name: Update to step X
